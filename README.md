@@ -2,7 +2,7 @@
 
 ## Top 3 Power Automate Flows for Boosting producitivity in Azure DevOps
 
-[![Watch the video]()](https://youtu.be/cqinG_0JhKI?si=POmXHgo-a72wpdvF))
+[![Watch the video](./)](https://youtu.be/cqinG_0JhKI?si=POmXHgo-a72wpdvF))
 
 
 - Expression format - Markdown Snippet
