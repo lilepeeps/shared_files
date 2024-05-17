@@ -6,6 +6,11 @@ Functions:
 - [Acceptance Criteria Function](#get-acceptance-criteria-function)
 - [Latest Comment Function](#get-latest-comment)
 
+Convert HTML into Text
+
+```
+Html.Table([System.Description] , {{"text",":root"}})
+```
 
 ## Get Work Item Description Function
 
